@@ -1,0 +1,18 @@
+param,vein,artery,info
+N,10.000,10.000,no. of coils
+L,50.000,50.000,cord length (cm)
+w,1.600,1.600,coiling width (cm)
+Re,100.000,100.000,flow Reynolds number
+R,0.350,0.200,vessel cross-sectional radius (cm)
+Q,265.000,145.000,cross-sectional blood flow-rate (mL/min)
+rho,1060.000,1060.000,blood density (kg/m^3)
+mu,0.004,0.004,blood viscosity (kg/ms)
+Lh,57.441,62.620,vessel arclength (cm)
+tau,0.333,0.160,vessel torsion
+kappa,0.188,0.121,vessel curvature
+gamma,0.082,0.055,gamma parameter
+dP,1.901,9.829,vessel pressure drop (mmHg)
+dP_R,1.901,9.829,reference vessel pressure drop (mmHg)
+PX,1.000,1.000,pressure index
+CPA,1.567,1.387,coil pressure anomaly: a ratio of pressure drop in the coiled and straightened vessels
+UCI,0.200,0.200,umbilical coiling index
