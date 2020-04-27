@@ -36,6 +36,7 @@ enforced here.
 
 # References:
 By the authors:
+
 D. J. Wilke, J. P. Denier, T. Y. Khong, T. W. Mattner, Pressure and
 flow in the umbilical cord, Journal of Biomechanics (79) (2018) 78–87.
 doi:10.1016/j.jbiomech.2018.07.044.
@@ -44,6 +45,7 @@ D. J. Wilke, Pressure and flow within the umbilical vessels, Ph.D thesis,
 The University of Adelaide (2016).
 
 From the literature:
+
 G. Acharya, T. Wilsgaard, G.K.R. Berntsen, J.M. Maltau, T. Kiserud, Reference
 ranges for serial measurements of blood velocity and pulsatility index at the
 intra-abdominal portion, and fetal and placental ends of the umbilical artery, 
